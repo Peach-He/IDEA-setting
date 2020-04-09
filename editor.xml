@@ -11,5 +11,7 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.java" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="2" />
   </component>
 </application>
