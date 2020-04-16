@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="testGitRemote" type="PLAIN_TEXT" />
       <mapping pattern="testGit" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="multipartuploaderfactory" type="PLAIN_TEXT" />
