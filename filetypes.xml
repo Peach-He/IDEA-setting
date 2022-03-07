@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="blk_1073741829" type="PLAIN_TEXT" />
+      <mapping pattern="blk_1073741827" type="PLAIN_TEXT" />
+      <mapping pattern="blk_1073741825" type="PLAIN_TEXT" />
+      <mapping pattern="testGit" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="test1" type="PLAIN_TEXT" />
+      <mapping pattern="testGitRemote" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="multipartuploaderfactory" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
